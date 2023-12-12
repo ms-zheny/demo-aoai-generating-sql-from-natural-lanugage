@@ -1,0 +1,4 @@
+src/.env
+src/.venv/
+src/__pycache__/
+src/prompts/__pycache__/prompts.cpython-311.pyc
